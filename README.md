@@ -14,10 +14,8 @@ please read the GNU General Public License v3.0
 -
 -
 -
--
 Mod: Functions
 Reticle/Crosshair
--
--More soon!
+More soon!
      
      
